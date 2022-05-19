@@ -10,7 +10,7 @@ This reporsitory trains quantized-scaled models using Qkeras for Keyword Spottin
 
 **Steps to run the code**
 
-1. Generate a conda virtual environment with "conda create -n envname python=3.9".
-2. Run the 'requirements.txt' file with "pip install -r requirements.txt".
+1. Generate a conda virtual environment with "**conda create -n envname python=3.9**".
+2. Run the 'requirements.txt' file with "**pip install -r requirements.txt**".
 3. Save the dataset on the drive and specify the dataset location on the 'prepare_dataset.py" file.
-4. Run the 'q_train.py' file with "python q_train.py" to create and save trained models on the "Trained_models" directory.  
+4. Run the 'q_train.py' file with "**python q_train.py**" to create and save trained models on the "Trained_models" directory.  
