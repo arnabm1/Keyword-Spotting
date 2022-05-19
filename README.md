@@ -1,4 +1,4 @@
-This reporsitory trains quantized-scaled models using Qkeras for Keyword Spotting using the Google Speech Commands dataset.
+This reporsitory trains quantized-scaled models using Qkeras for Keyword Spotting using the Google Speech Commands dataset(http://download.tensorflow.org/data/speech_commands_v0.01.tar.gz).
 
 **Description of files:**
 
