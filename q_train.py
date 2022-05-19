@@ -30,7 +30,7 @@ for s in (scale):
 	for q in (quant):
 		for run in range(2):
 
-			epochs = 2
+			epochs = 100
 
 			print('\n ######_' + 'Start execution_' + repr(run+1) + '_for ks_' + '1sec_w_' + repr(s) + 's_with_' + repr(q) + 'q_and_' + repr(epochs) + '_epochs_######')
 
