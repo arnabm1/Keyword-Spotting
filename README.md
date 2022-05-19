@@ -1,6 +1,6 @@
 This reporsitory trains quantized-scaled models using Qkeras for Keyword Spotting using the Google Speech Commands dataset.
 
-Description of files:
+**Description of files:**
 
 prepare_dataset: Generates Json compatible file to be fed to the model from the raw audios
 
