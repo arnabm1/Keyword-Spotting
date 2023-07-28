@@ -1,4 +1,5 @@
 This reporsitory trains quantized-scaled models using Qkeras for Keyword Spotting using the Google Speech Commands dataset.
+Implementation of the model training for the tinyML 2022 paper "[A Fast Network Exploration Strategy to Profile Low Energy Consumption for Keyword Spotting](https://arxiv.org/abs/2202.02361)"
 
 **Description of files:**
 
